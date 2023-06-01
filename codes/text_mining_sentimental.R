@@ -39,7 +39,7 @@ bing_word_counts <- tidy_text %>%
   ungroup()
 
 # Define custom stop words
-custom_stop_words <- bind_rows(tibble(word = c("erosion"), lexicon = c("custom")), stop_words)
+custom_stop_words <- bind_rows(tibble(lexicon = c("custom")), stop_words)
 
 # Generate wordcloud
 tidy_text %>%
