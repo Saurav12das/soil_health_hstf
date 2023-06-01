@@ -1,4 +1,6 @@
 Motivation and Challenges in Adopting Soil Health Practices
+
+
 This repository contains the R code used in our research paper "Motivation and Challenges in Adopting Soil Health Practices," conducted by the Nebraska Healthy Soils Task Force (HSTF) and the University of Nebraska–Lincoln (UNL). The paper was published in the Journal of Soil and Water Conservation and can be found here.
 
 Project Overview
