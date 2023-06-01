@@ -1,10 +1,10 @@
 Motivation and Challenges in Adopting Soil Health Practices
 
 
-This repository contains the R code used in our research paper "Motivation and Challenges in Adopting Soil Health Practices," conducted by the Nebraska Healthy Soils Task Force (HSTF) and the University of Nebraska–Lincoln (UNL). The paper was published in the Journal of Soil and Water Conservation and can be found here.
+This repository contains the R code used in our research paper "Motivation and Challenges in Adopting Soil Health Practices," conducted by the Nebraska Healthy Soils Task Force (HSTF) and the University of Nebraska–Lincoln (UNL). The paper was published in the Journal of Soil and Water Conservation and can be found here: https://www.jswconline.org/content/early/2022/02/09/jswc.2022.00058.
 
 Project Overview
-In 2019-20, a survey was conducted to learn about producers' motivation and challenges in cover crop (CC), nutrient, and other soil health management practices across seven Nebraska locations. The survey was completed by 275 participants, including producers, landowners, crop consultants, university staff, USDA Natural Resources Conservation Service and state agencies, and other attendees.
+In 2019-20, a survey was conducted to learn about producers' motivation and challenges in cover crop (CC), nutrient, and other soil health management practices across seven locations in Nebraska. The survey was completed by 275 participants, including producers, landowners, crop consultants, university staff, USDA Natural Resources Conservation Service and state agencies, and other attendees.
 
 This research primarily focused on the following areas:
 
