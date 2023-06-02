@@ -4,7 +4,7 @@ This repository contains the R code used in our research paper "**Motivation and
 
 ## :dart: Project Overview
 
-In 2019-20, a survey was conducted to explore producers' motivation and challenges in cover crop (CC), nutrient, and other soil health management practices across seven locations in Nebraska. The survey was completed by 275 participants, which included producers, landowners, crop consultants, university staff, USDA Natural Resources Conservation Service and state agencies, and other attendees.
+In 2019-20, a survey was conducted to explore producers' motivation and challenges in cover crop (CC), nutrient management, and other soil health management practices across seven locations in Nebraska. The survey was completed by 275 participants, which included producers, landowners, crop consultants, university staff, USDA Natural Resources Conservation Service and state agencies, and other attendees.
 
 The research primarily delved into the following areas:
 
